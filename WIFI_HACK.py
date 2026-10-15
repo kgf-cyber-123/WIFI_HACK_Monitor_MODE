@@ -1,3 +1,3 @@
 import os
-import wifi_Sn
-wifi_Sn.main()
+import WIFI_Sn
+WIFI_Sn.main()
